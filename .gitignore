@@ -1,3 +1,10 @@
+*.test
+
+*.work
+kmlee.*
+
+
+
 # History files
 .Rhistory
 .Rapp.history
